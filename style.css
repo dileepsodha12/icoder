@@ -1,0 +1,9 @@
+*{
+    position: relative;
+}
+.profile{
+  border-radius: 20px;
+}
+.md{
+    position: fixed;
+}
